@@ -1,0 +1,839 @@
+<templateSet group="Symbol">
+    <template name="alpha"
+              value="α"
+              description="alpha"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="beta"
+              value="β"
+              description="beta"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="gamma"
+              value="γ"
+              description="gamma"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="delta"
+              value="δ"
+              description="delta"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="epsilon"
+              value="ε"
+              description="epsilon"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="zeta"
+              value="ζ"
+              description="zeta"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="eta"
+              value="η"
+              description="eta"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="theta"
+              value="θ"
+              description="theta"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="Theta"
+              value="ϑ"
+              description="Theta"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="iota"
+              value="ι"
+              description="iota"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="kappa"
+              value="κ"
+              description="kappa"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="lambda"
+              value="λ"
+              description="lambda"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="mu"
+              value="µ"
+              description="mu"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="nu"
+              value="ν"
+              description="nu"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="xi"
+              value="ξ"
+              description="xi"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="pi"
+              value="π"
+              description="pi"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="rho"
+              value="ρ"
+              description="rho"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="sigma"
+              value="σ"
+              description="sigma"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="Sigma"
+              value="ς"
+              description="Sigma"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="tau"
+              value="τ"
+              description="tau"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="upsilon"
+              value="υ"
+              description="upsilon"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="phi"
+              value="φ"
+              description="phi"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="Phi"
+              value="ϕ"
+              description="Phi"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="chi"
+              value="χ"
+              description="chi"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="psi"
+              value="ψ"
+              description="psi"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="omega"
+              value="ω"
+              description="omega"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="Gamma"
+              value="Γ"
+              description="Gamma"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="Delta"
+              value="∆"
+              description="Delta"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="Theta"
+              value="Θ"
+              description="Theta"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="Lambda"
+              value="Λ"
+              description="Lambda"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="Xi"
+              value="Ξ"
+              description="Xi"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="Pi"
+              value="Π"
+              description="Pi"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="Sigma"
+              value="Σ"
+              description="Sigma"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="Upsilon"
+              value="Υ"
+              description="Upsilon"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="Phi"
+              value="Φ"
+              description="Phi"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="Psi"
+              value="Ψ"
+              description="Psi"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="Omega"
+              value="Ω"
+              description="Omega"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="le"
+              value="≤"
+              description="le"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="ge"
+              value="≥"
+              description="ge"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="equiv"
+              value="≡"
+              description="equiv"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="subset"
+              value="⊂"
+              description="subset"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="supset"
+              value="⊃"
+              description="supset"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="approx"
+              value="≈"
+              description="approx"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="subseteq"
+              value="⊆"
+              description="subseteq"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="supseteq"
+              value="⊇"
+              description="supseteq"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="in"
+              value="∈"
+              description="in"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="pm"
+              value="±"
+              description="pm"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="mp"
+              value="∓"
+              description="mp"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="cdot"
+              value="·"
+              description="cdot"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="div"
+              value="÷"
+              description="div"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="times"
+              value="×"
+              description="times"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="cup"
+              value="∪"
+              description="cup"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="cap"
+              value="∩"
+              description="cap"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="sqcup"
+              value="t"
+              description="sqcup"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="sqcap"
+              value="u"
+              description="sqcap"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="circ"
+              value="◦"
+              description="circ"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="vee"
+              value="∨"
+              description="vee"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="wedge"
+              value="∧"
+              description="wedge"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="bullet"
+              value="•"
+              description="bullet"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="oplus"
+              value="⊕"
+              description="oplus"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="otimes"
+              value="⊗"
+              description="otimes"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="dagger"
+              value="†"
+              description="dagger"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="ddagger"
+              value="‡"
+              description="ddagger"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="leftarrow"
+              value="←"
+              description="leftarrow"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="rightarrow"
+              value="→"
+              description="rightarrow"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="downarrow"
+              value="↓"
+              description="downarrow"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="uparrow"
+              value="↑"
+              description="uparrow"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="leftrightarrow"
+              value="↔"
+              description="leftrightarrow"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="Leftarrow"
+              value="⇐"
+              description="Leftarrow"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="Uparrow"
+              value="⇑"
+              description="Uparrow"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="Rightarrow"
+              value="⇒"
+              description="Rightarrow"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="Downarrow"
+              value="⇓"
+              description="Downarrow"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="Leftrightarrow"
+              value="⇔"
+              description="Leftrightarrow"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="aleph"
+              value="ℵ"
+              description="aleph"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="forall"
+              value="∀"
+              description="forall"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="exists"
+              value="∃"
+              description="exists"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="emptyset"
+              value="∅"
+              description="emptyset"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="infty"
+              value="∞"
+              description="infty"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="wp"
+              value="℘"
+              description="wp"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="bot"
+              value="⊥"
+              description="bot"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="top"
+              value="⊤"
+              description="top"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="nabla"
+              value="∇"
+              description="nabla"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="partial"
+              value="∂"
+              description="partial"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="SSS"
+              value="§"
+              description="SSS"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="PPP"
+              value="¶"
+              description="PPP"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="pound"
+              value="£"
+              description="pound"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="diamondsuit"
+              value="♦"
+              description="diamondsuit"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="heartsuit"
+              value="♥"
+              description="heartsuit"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="clubsuit"
+              value="♣"
+              description="clubsuit"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="spadesuit"
+              value="♠"
+              description="spadesuit"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="remove"
+              value="|-|"
+              description="remove"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="combine"
+              value="|+|"
+              description="combine"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+    <template name="combineK"
+              value="&lt;+&gt;"
+              description="combineK"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL" value="true"/>
+        </context>
+    </template>
+</templateSet>

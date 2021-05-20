@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(packageArtifactZip, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: packageArtifactZip[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mDetected plugin xmls, patching: /home/teinnsei/IdeaProjects/symbol-idea-plugin/target/scala-3.0.0/classes/META-INF/plugin.xml[0m
+[0m[[0m[0minfo[0m] [0m[0mstarted dumping structure[0m
+[0m[[0m[0minfo[0m] [0m[0mbuilding node stubs from root: ProjectRef(file:/home/teinnsei/IdeaProjects/symbol-idea-plugin/,symbol-idea-plugin)[0m
+[0m[[0m[0minfo[0m] [0m[0mbuilding node graph from nodes: List({symbol-idea-plugin})[0m
+[0m[[0m[33mwarn[0m] [0m[0mFailed to extract dependency jar for org.scala-lang:scala3-library_2.13:3.0.0[][0m
+[0m[[0m[0minfo[0m] [0m[0mbuilding mappings for 1 nodes[0m
+[0m[[0m[0minfo[0m] [0m[0mWrote 1 files to /home/teinnsei/IdeaProjects/symbol-idea-plugin/target/plugin/symbol-idea-plugin/lib/symbol-idea-plugin.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m(1ms) packageJar(1): /home/teinnsei/IdeaProjects/symbol-idea-plugin/target/plugin/symbol-idea-plugin/lib/symbol-idea-plugin.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m(2ms) <== Artifact total assembly ==>[0m
+[0m[[0m[0minfo[0m] [0m[0mWrote 36 files to /home/teinnsei/IdeaProjects/symbol-idea-plugin/target/symbol-idea-plugin-1.3.4.zip[0m
+[0m[[0m[0minfo[0m] [0m[0m(207ms) Packaging ZIP artifact: /home/teinnsei/IdeaProjects/symbol-idea-plugin/target/symbol-idea-plugin-1.3.4.zip[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 0 s, completed May 20, 2021, 8:30:49 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m

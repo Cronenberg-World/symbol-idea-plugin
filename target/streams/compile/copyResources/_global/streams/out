@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/teinnsei/IdeaProjects/symbol-idea-plugin/resources/liveTemplates/Fake.xml,/home/teinnsei/IdeaProjects/symbol-idea-plugin/target/scala-3.0.0/classes/liveTemplates/Fake.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/teinnsei/IdeaProjects/symbol-idea-plugin/resources/liveTemplates/Symbol.xml,/home/teinnsei/IdeaProjects/symbol-idea-plugin/target/scala-3.0.0/classes/liveTemplates/Symbol.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/teinnsei/IdeaProjects/symbol-idea-plugin/resources/liveTemplates/LoremIpsum.xml,/home/teinnsei/IdeaProjects/symbol-idea-plugin/target/scala-3.0.0/classes/liveTemplates/LoremIpsum.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/teinnsei/IdeaProjects/symbol-idea-plugin/resources/liveTemplates/SymbolMath.xml,/home/teinnsei/IdeaProjects/symbol-idea-plugin/target/scala-3.0.0/classes/liveTemplates/SymbolMath.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/teinnsei/IdeaProjects/symbol-idea-plugin/resources/liveTemplates/SymbolEmoji.xml,/home/teinnsei/IdeaProjects/symbol-idea-plugin/target/scala-3.0.0/classes/liveTemplates/SymbolEmoji.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/teinnsei/IdeaProjects/symbol-idea-plugin/resources/liveTemplates/LoremIpsum.txt,/home/teinnsei/IdeaProjects/symbol-idea-plugin/target/scala-3.0.0/classes/liveTemplates/LoremIpsum.txt)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/teinnsei/IdeaProjects/symbol-idea-plugin/resources/META-INF/plugin.xml,/home/teinnsei/IdeaProjects/symbol-idea-plugin/target/scala-3.0.0/classes/META-INF/plugin.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/teinnsei/IdeaProjects/symbol-idea-plugin/resources/META-INF/pluginIcon.svg,/home/teinnsei/IdeaProjects/symbol-idea-plugin/target/scala-3.0.0/classes/META-INF/pluginIcon.svg)[0m

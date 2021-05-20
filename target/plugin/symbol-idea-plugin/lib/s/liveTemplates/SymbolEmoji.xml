@@ -1,0 +1,452 @@
+<templateSet group="SymbolEmoji">
+    <template name="emojiFaceWithTearsOfJoy"
+              value="😂"
+              description="😂"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiBlackHeartSymbol"
+              value="❤"
+              description="❤"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiSmilingFaceWithHeartShapedEyes"
+              value="😍"
+              description="😍"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiRollingOnTheFloorLaughing"
+              value="🤣"
+              description="🤣"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiSmilingFaceWithSmilingEyes"
+              value="😊"
+              description="😊"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiPersonWithFoldedHands"
+              value="🙏"
+              description="🙏"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiTwoHearts"
+              value="💕"
+              description="💕"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiLoudlyCryingFace"
+              value="😭"
+              description="😭"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiFire"
+              value="🔥"
+              description="🔥"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiFaceThrowingaKiss"
+              value="😘"
+              description="😘"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiThumbsUpSign"
+              value="👍"
+              description="👍"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiSmilingFaceWithSmilingEyesAndThreeHearts"
+              value="🥰"
+              description="🥰"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiSmilingFaceWithSunglasses"
+              value="😎"
+              description="😎"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiSmilingFaceWithOpenMouthAndTightlyClosedEyes"
+              value="😆"
+              description="😆"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiGrinningFaceWithSmilingEyes"
+              value="😁"
+              description="😁"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiWinkingFace"
+              value="😉"
+              description="😉"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiThinkingFace"
+              value="🤔"
+              description="🤔"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiSmilingFaceWithOpenMouthAndColdSweat"
+              value="😅"
+              description="😅"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiPensiveFace"
+              value="😔"
+              description="😔"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiFaceWithRollingEyes"
+              value="🙄"
+              description="🙄"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiFaceWithStuckOutTongueAndWinkingEye"
+              value="😜"
+              description="😜"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiBlackHeartSuit"
+              value="♥"
+              description="♥"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiBlackUniversalRecyclingSymbol"
+              value="♻"
+              description="♻"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiUnamusedFace"
+              value="😒"
+              description="😒"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiWearyFace"
+              value="😩"
+              description="😩"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiWhiteSmilingFace"
+              value="☺"
+              description="☺"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiGrinningFaceWithSmilingEyes"
+              value="😁"
+              description="😁"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiOkHandSign"
+              value="👌"
+              description="👌"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiClappingHandsSign"
+              value="👏"
+              description="👏"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiBrokenHeart"
+              value="💔"
+              description="💔"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiSparklingHeart"
+              value="💖"
+              description="💖"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiBlueHeart"
+              value="💙"
+              description="💙"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiCryingFace"
+              value="😢"
+              description="😢"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiFlexedBiceps"
+              value="💪"
+              description="💪"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiHuggingFace"
+              value="🤗"
+              description="🤗"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiPurpleHeart"
+              value="💜"
+              description="💜"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiSmilingFaceWithSunglasses"
+              value="😎"
+              description="😎"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiSmilingFaceWithHalo"
+              value="😇"
+              description="😇"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiRose"
+              value="🌹"
+              description="🌹"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiFacePalm"
+              value="🤦"
+              description="🤦"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiPartyPopper"
+              value="🎉"
+              description="🎉"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiRevolvingHearts"
+              value="💞"
+              description="💞"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiVictoryHand"
+              value="✌"
+              description="✌"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiSparkles"
+              value="✨"
+              description="✨"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiShrug"
+              value="🤷"
+              description="🤷"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiFaceScreamingInFear"
+              value="😱"
+              description="😱"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiRelievedFace"
+              value="😌"
+              description="😌"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiCherryBlossom"
+              value="🌸"
+              description="🌸"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiPersonRaisingBothHandsInCelebration"
+              value="🙌"
+              description="🙌"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+    <template name="emojiFaceSavouringDeliciousFood"
+              value="😋"
+              description="😋"
+              toReformat="false"
+              toShortenFQNames="false">
+        <context>
+            <option name="SYMBOL_MATH" value="true"/>
+        </context>
+    </template>
+</templateSet>

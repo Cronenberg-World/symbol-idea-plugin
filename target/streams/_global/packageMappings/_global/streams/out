@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0mstarted dumping structure[0m
+[0m[[0m[0minfo[0m] [0m[0mbuilding node stubs from root: ProjectRef(file:/home/teinnsei/IdeaProjects/symbol-idea-plugin/,symbol-idea-plugin)[0m
+[0m[[0m[0minfo[0m] [0m[0mbuilding node graph from nodes: List({symbol-idea-plugin})[0m
+[0m[[0m[33mwarn[0m] [0m[0mFailed to extract dependency jar for org.scala-lang:scala3-library_2.13:3.0.0[][0m
+[0m[[0m[0minfo[0m] [0m[0mbuilding mappings for 1 nodes[0m

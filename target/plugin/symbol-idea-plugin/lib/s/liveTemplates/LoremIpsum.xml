@@ -1,0 +1,52 @@
+<templateSet group="LoremIpsum">
+    <template name="loremIpsum5"
+              value="$LOREM_IPSUM$"
+              description="Lorem Ipsum 5 sentences"
+              toReformat="true"
+              toShortenFQNames="false">
+        <variable name="LOREM_IPSUM" expression="loremIpsum(&quot;test&quot;)" defaultValue="" alwaysStopAt="true"/>
+        <context>
+            <option name="LOREM_IPSUM" value="true"/>
+        </context>
+    </template>
+    <template name="loremIpsum10"
+              value="$LOREM_IPSUM$"
+              description="Lorem Ipsum 10 sentences"
+              toReformat="true"
+              toShortenFQNames="false">
+        <variable name="LOREM_IPSUM" expression="loremIpsum(&quot;test&quot;)" defaultValue="" alwaysStopAt="true"/>
+        <context>
+            <option name="LOREM_IPSUM" value="true"/>
+        </context>
+    </template>
+    <template name="loremIpsum20"
+              value="$LOREM_IPSUM$"
+              description="Lorem Ipsum 20 sentences"
+              toReformat="true"
+              toShortenFQNames="false">
+        <variable name="LOREM_IPSUM" expression="loremIpsum(&quot;test&quot;)" defaultValue="" alwaysStopAt="true"/>
+        <context>
+            <option name="LOREM_IPSUM" value="true"/>
+        </context>
+    </template>
+    <template name="loremIpsum40"
+              value="$LOREM_IPSUM$"
+              description="Lorem Ipsum 40 sentences"
+              toReformat="true"
+              toShortenFQNames="false">
+        <variable name="LOREM_IPSUM" expression="loremIpsum(&quot;test&quot;)" defaultValue="" alwaysStopAt="true"/>
+        <context>
+            <option name="LOREM_IPSUM" value="true"/>
+        </context>
+    </template>
+    <template name="loremIpsum80"
+              value="$LOREM_IPSUM$"
+              description="Lorem Ipsum 80 sentences"
+              toReformat="true"
+              toShortenFQNames="false">
+        <variable name="LOREM_IPSUM" expression="loremIpsum(&quot;test&quot;)" defaultValue="" alwaysStopAt="true"/>
+        <context>
+            <option name="LOREM_IPSUM" value="true"/>
+        </context>
+    </template>
+</templateSet>
