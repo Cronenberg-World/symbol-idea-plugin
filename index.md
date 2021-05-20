@@ -98,8 +98,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 | heartsuit | ♥ |
 | clubsuit | ♣ |
 | spadesuit | ♠ |
-| remove | |-| |
-| combine | |+| |
+| remove | &#124;-&#124; |
+| combine | &#124;+&#124; |
 | combineK | <+> |
 
 ### Symbol Math
